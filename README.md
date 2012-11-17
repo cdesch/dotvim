@@ -1,12 +1,12 @@
 # dotvim
 
-Just my Vim config.
+Just my Vim config. Forked from [modocache](https://github.com/modocache/dotvim)
 
 # Installation
 
 Clone the repo:
 
-    git clone git://github.com/modocache/dotvim.git ~/.vim
+    git clone git://github.com/cdesch/dotvim.git ~/.vim
 		
 Create symlinks:
 
