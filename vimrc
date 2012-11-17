@@ -50,7 +50,7 @@ let g:miniBufExplModSelTarget = 1
 filetype on
 filetype plugin on
 syntax on
-set backspace+=indent,eol,start " Backspace can delete ANYTHING
+set backspace=indent,eol,start " Backspace can delete ANYTHING
 set autoindent
 set smartindent
 " Set tabstop, softtabstop, shiftwidth, and expandtab (soft tabs)

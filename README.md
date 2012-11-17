@@ -17,6 +17,9 @@ Switch to the `~/.vim` directory, and fetch submodules:
     cd ~/.vim
     git submodule init
     git submodule update
+    
+Requires
+- RVM with new version of ruby  - curl -L https://get.rvm.io | bash -s stable --ruby
 
 # Vim
 
